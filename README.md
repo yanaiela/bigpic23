@@ -1,3 +1,14 @@
+BigPicture Tasks
+
+
+- [x] `conference_details.yml`
+- [x] `sponsors.yml` (optional)
+- [ ] `prefaces.yml`
+- [x] `organizing_committee.yml`
+- [ ] `program_committee.yml`
+- [ ] `invited_talks.yml` (optional)
+- [ ] `papers.yml`
+
 # How to generate proceedings for \*CL Conferences and Workshops in aclpub2 format
 
 **aclpub2** supports the generation of Proceedings and Booklets for \*CL Conferences (ACL, NAACL, EMNLP, ... ) and related Workshops. 
