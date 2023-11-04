@@ -1,0 +1,21 @@
+book_title: Proceedings of the the Big Picture Workshop
+event_name: The Big Picture Workshop
+cover_subtitle: Proceedings of the Worksho[]
+anthology_venue_id: BigPicture
+start_date: 2023-12-07
+end_date: 2023-12-07
+isbn: 979-8-89176-051-6
+location: Singapore, Singapore
+editors:
+  - first_name: Yanai
+    last_name: Elazar
+  - first_name: Allyson
+    last_name: Ettinger
+  - first_name: Nora
+    last_name: Kassner
+  - first_name: Sebastian
+    last_name: Ruder
+  - first_name: Noah
+    last_name: A. Smith
+publisher: Association for Computational Linguistics
+#watermark_book_title: Proceedings of the 21th Annual Meeting of the\\ Special Interest Group on Discourse and Dialogue
