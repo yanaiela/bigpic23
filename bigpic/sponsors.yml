@@ -1,11 +1,7 @@
 - tier: Gold
   logos:
-    - apple.png
-    - rasa.jpg
+    - amazon.png
+    - google.jpg
 - tier: Silver
   logos:
-    - honda.png
-    - toshiba.jpeg
-- tier: In cooperation with
-  logos:
-    - boise.png
+    - hugging_face.png
