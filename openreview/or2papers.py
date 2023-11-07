@@ -46,10 +46,10 @@ def main(username, password, venue, download_all, download_pdfs):
         d.forum: d
         for d in list(
             openreview.tools.iterget_notes(
-                client_acl, invitation=venue + "/Paper.*/-/Decision"
+                client_acl, invitation=venue + "/Paper.*"
             )
         )
-        if "accept" in d.content["decision"].lower()
+        # if "accept" in d.content["decision"].lower()
     }
 
     papers = []
@@ -85,7 +85,7 @@ def main(username, password, venue, download_all, download_pdfs):
             else "",
             "file": str(submission.number) + ".pdf",  # str(len(papers)+1) + ".pdf",
             "pdf_file": submission.content["pdf"].split("/")[-1],
-            "decision": decision_by_forum[submission.id].content["decision"],
+            # "decision": decision_by_forum[submission.id].content["decision"],
             "openreview_id": submission.id,
         }
 
