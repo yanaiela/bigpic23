@@ -124,19 +124,17 @@
   pdf_file: ae6694503add6d28ef99d402c79fdf0e90f5b4a8.pdf
   title: 'Computational Narrative Understanding: A Big Picture Analysis'
 - abstract: I propose a paradigm for scientific progress in NLP centered around developing
-    scalable, data-driven theories of linguistic structure. The idea is to collect
+    scalable, data-driven theories of linguistic structure.  The idea is to collect
     data in tightly scoped, carefully defined ways which allow for exhaustive annotation
-    of behavioral phenomena of interest. With such data, we can use machine learning
-    to construct explanatory theories of the phenomena which can be used as building
-    blocks for intelligible AI systems. After laying some conceptual groundwork, I
-    describe a series of investigations into the development of data and theory for
-    representations of shallow semantic structure --- in particular, using Question-Answer
-    driven Semantic Role Labeling (QA-SRL), a simple schema for annotating verbal
-    predicate-argument structure using highly constrained question-answer pairs. While
-    this only scratches the surface of the complex language behaviors of interest
-    in AI, I outline principles for data collection and theoretical modeling which
-    can inform future scientific progress. This note summarizes and draws heavily
-    on my PhD thesis.
+    of behavioral phenomena of interest, and then use machine learning to construct
+    explanatory theories of these phenomena which can form building blocks for intelligible
+    AI systems.  After laying some conceptual groundwork, I describe several investigations
+    into data-driven theories of shallow semantic structure using Question-Answer
+    driven Semantic Role Labeling (QA-SRL), a schema for annotating verbal predicate-argument
+    relations using highly constrained question-answer pairs.  While this only scratches
+    the surface of the complex language behaviors of interest in AI, I outline principles
+    for data collection and theoretical modeling which can inform future scientific
+    progress.  This note summarizes and draws heavily on my PhD thesis.
   attributes:
     paper_type: N/A
     presentation_type: N/A
@@ -156,7 +154,7 @@
   file: 4.pdf
   id: 4
   openreview_id: F3qDvam0wPH
-  pdf_file: 81f832663a4d24c049b1d5abcf5301f95f1bc491.pdf
+  pdf_file: 2afea222e9258f35cf641c45d80bb713effa6cb4.pdf
   title: 'The Case for Scalable, Data-Driven Theory: A Paradigm for Scientific Progress
     in NLP'
 - abstract: 'This paper is a summary of the work done in my PhD thesis. Where I investigate
