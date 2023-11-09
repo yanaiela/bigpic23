@@ -1,6 +1,6 @@
 - members:
-  - first_name: Yanai Elazar
-    institution: Allen Institute for AI & University of Washington, USA
+  - first_name: Yanai
+    institution: Allen Institute for AI \& University of Washington, USA
     last_name: Elazar
   - first_name: Allyson
     institution: Allen Institute for AI
@@ -12,6 +12,6 @@
     institution: Google DeepMind, Germany
     last_name: Ruder
   - first_name: Noah
-    institution: Allen Institute for AI & University of Washington, USA
+    institution: Allen Institute for AI \& University of Washington, USA
     last_name: A. Smith
   role: Program Chairs
