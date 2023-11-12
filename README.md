@@ -8,6 +8,7 @@ BigPicture Tasks
 - [x] `program_committee.yml`
 - [ ] `invited_talks.yml` (optional)
 - [x] `papers.yml`
+- [x] `program.yml`
 
 # How to generate proceedings for \*CL Conferences and Workshops in aclpub2 format
 
