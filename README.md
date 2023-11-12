@@ -3,7 +3,7 @@ BigPicture Tasks
 
 - [x] `conference_details.yml`
 - [x] `sponsors.yml` (optional)
-- [ ] `prefaces.yml`
+- [x] `prefaces.yml`
 - [x] `organizing_committee.yml`
 - [x] `program_committee.yml`
 - [ ] `invited_talks.yml` (optional)
